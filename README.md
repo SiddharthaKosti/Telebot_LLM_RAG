@@ -19,3 +19,5 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 ## run the app
 python main_bot.py 
+
+## Ask question in bot
